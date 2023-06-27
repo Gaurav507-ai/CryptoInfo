@@ -4,8 +4,8 @@
 
 ### Landing page
 
-![](/images/Landing.PNG)
+![](./images/Landing.PNG)
 
 ### Single Cryptocurrency Information Page
 
-![](/images/ChartPage.PNG)
+![](./images/ChartPage.PNG)
